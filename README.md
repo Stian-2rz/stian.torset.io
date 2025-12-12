@@ -1,2 +1,2 @@
-# Stian Torset, Dr. rer. Nat
+# Stian Torset
 ** Molecular Microbiologist | Computational Biology | -Omics | **
